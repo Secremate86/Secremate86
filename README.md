@@ -4,6 +4,7 @@
 
 <p>
   <code>AI Agent Development</code>
+  <code>Exploring AI-Native</code>
   <code>Python</code>
   <code>TypeScript</code>
 </p>
@@ -17,12 +18,14 @@
 
 </div>
 
-Building small. Learning by shipping.
+Becoming AI-Native. Learning by building.
 
-专注 AI Agent 开发，让想法成为可以使用的工具。
+专注 AI Agent 开发，探索 AI-Native 的工作与创造方式。
+
+让 AI 参与从想法到实现的全过程，让想法成为可以使用的工具。
 
 - 🛠️ Working with **Python** & **TypeScript**.
-- 🌱 Exploring how agents use tools and get work done.
+- 🌱 Exploring AI-native workflows, from idea to working software.
 - 💬 Always up for a conversation about agents, tools, and things worth building.
 
 <br />
