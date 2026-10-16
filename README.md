@@ -4,6 +4,7 @@
 
 <p>
   <code>AI Agent Development</code>
+  <code>Full-Stack Development</code>
   <code>Exploring AI-Native</code>
   <code>Python</code>
   <code>TypeScript</code>
@@ -20,7 +21,7 @@
 
 Becoming AI-Native. Learning by building.
 
-专注 AI Agent 开发，探索 AI-Native 的工作与创造方式。
+专注全栈与 AI Agent 开发，探索 AI-Native 的工作与创造方式。
 
 让 AI 参与从想法到实现的全过程，让想法成为可以使用的工具。
 
